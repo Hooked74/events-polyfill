@@ -1,7 +1,7 @@
 {
   "name": "events-polyfill",
   "version": "1.0.0",
-  "description": "Creates polyfills for existing event constructors",
+  "description": "Polyfills the constructor syntax for creating events in browsers that don't natively support it.",
   "files": [
     "lib/"
   ],
