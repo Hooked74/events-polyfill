@@ -20,7 +20,7 @@
 ## Install
 
 ```
-npm install @hooked/events-polyfill
+npm install @hooked74/events-polyfill
 ```
 
 ## Introduction
