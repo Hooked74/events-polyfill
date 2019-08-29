@@ -1,5 +1,5 @@
 {
-  "name": "events-polyfill",
+  "name": "@hooked/events-polyfill",
   "version": "1.0.0",
   "description": "Polyfills the constructor syntax for creating events in browsers that don't natively support it.",
   "files": [
@@ -31,6 +31,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "scope": "@hooked"
+  }
 }
