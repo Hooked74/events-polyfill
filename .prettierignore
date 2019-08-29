@@ -1,0 +1,4 @@
+package-lock.json
+yarn.lock
+README.md
+lib/main.min.js

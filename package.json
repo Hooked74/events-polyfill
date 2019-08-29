@@ -1,0 +1,36 @@
+{
+  "name": "events-polyfill",
+  "version": "1.0.0",
+  "description": "Creates polyfills for existing event constructors",
+  "files": [
+    "lib/"
+  ],
+  "keywords": [
+    "event",
+    "constructor",
+    "polyfill",
+    "create"
+  ],
+  "author": "Igor Novikov <novikovio74@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6"
+  },
+  "main": "lib/main.js",
+  "module": "lib/main.js",
+  "types": "lib/index.d.ts",
+  "jsnext:main": "lib/main.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hooked74/events-polyfill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hooked74/events-polyfill/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scope": "@hooked"
+}
