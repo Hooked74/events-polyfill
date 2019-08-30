@@ -1,6 +1,6 @@
 {
   "name": "@hooked74/events-polyfill",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Polyfills the constructor syntax for creating events in browsers that don't natively support it.",
   "files": [
     "lib/"
@@ -18,9 +18,7 @@
     "npm": ">=6"
   },
   "main": "lib/main.js",
-  "module": "lib/main.js",
   "types": "lib/index.d.ts",
-  "jsnext:main": "lib/main.js",
   "sideEffects": false,
   "repository": {
     "type": "git",
