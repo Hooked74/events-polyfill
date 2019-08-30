@@ -1,7 +1,7 @@
 # `events-polyfill`
 
-![npm](https://img.shields.io/npm/v/events-polyfill)
-![NPM](https://img.shields.io/npm/l/events-polyfill)
+![npm](https://img.shields.io/npm/v/@hooked74/events-polyfill)
+![NPM](https://img.shields.io/npm/l/@hooked74/events-polyfill)
 
 ## Table of Contents
 
